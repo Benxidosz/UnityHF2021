@@ -1,0 +1,1596 @@
+fileFormatVersion: 2
+guid: e60ae94d2addb6741b9b81152c82c984
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6623519538811482485
+    second: dog_gun_fighter_0
+  - first:
+      213: -2896559724557781903
+    second: dog_gun_fighter_1
+  - first:
+      213: -3483289815614849328
+    second: dog_gun_fighter_2
+  - first:
+      213: -5679718254742334149
+    second: dog_gun_fighter_3
+  - first:
+      213: 5767555567477389601
+    second: dog_gun_fighter_16
+  - first:
+      213: 3532921020967721346
+    second: dog_gun_fighter_17
+  - first:
+      213: 3048371316040568324
+    second: dog_gun_fighter_18
+  - first:
+      213: 6629181300271724716
+    second: dog_gun_fighter_19
+  - first:
+      213: -3173415160315853577
+    second: dog_gun_fighter_20
+  - first:
+      213: 9148533353991048781
+    second: dog_gun_fighter_21
+  - first:
+      213: -5245836393076202159
+    second: dog_gun_fighter_22
+  - first:
+      213: -526453222619241373
+    second: dog_gun_fighter_23
+  - first:
+      213: 9071636414946585593
+    second: dog_gun_fighter_30
+  - first:
+      213: -3842457724020845295
+    second: dog_gun_fighter_31
+  - first:
+      213: 6101344329503898605
+    second: dog_gun_fighter_32
+  - first:
+      213: -4266028472325731317
+    second: dog_gun_fighter_33
+  - first:
+      213: -4587044871328657316
+    second: dog_gun_fighter_34
+  - first:
+      213: -966331208116600802
+    second: dog_gun_fighter_35
+  - first:
+      213: -9040801202330811518
+    second: dog_gun_fighter_36
+  - first:
+      213: 3498361687193596725
+    second: dog_gun_fighter_37
+  - first:
+      213: -5185828727072069827
+    second: dog_gun_fighter_49
+  - first:
+      213: 8285259530709606643
+    second: dog_gun_fighter_50
+  - first:
+      213: 8785006997530549390
+    second: dog_gun_fighter_51
+  - first:
+      213: 973705888219249478
+    second: dog_gun_fighter_52
+  - first:
+      213: 964360205896104745
+    second: dog_gun_fighter_53
+  - first:
+      213: -7480380534595114803
+    second: dog_gun_fighter_54
+  - first:
+      213: -1722055290692251597
+    second: dog_gun_fighter_55
+  - first:
+      213: 2996042282388251663
+    second: dog_gun_fighter_56
+  - first:
+      213: 6115939853098569379
+    second: dog_gun_fighter_64
+  - first:
+      213: 1304913864641013225
+    second: dog_gun_fighter_65
+  - first:
+      213: 2280178251574045424
+    second: dog_gun_fighter_66
+  - first:
+      213: 1802556441528763902
+    second: dog_gun_fighter_67
+  - first:
+      213: 4328360626834814910
+    second: dog_gun_fighter_68
+  - first:
+      213: 8063687822585851278
+    second: dog_gun_fighter_69
+  - first:
+      213: -2209205262408762194
+    second: dog_gun_fighter_70
+  - first:
+      213: -5249311652603049215
+    second: dog_gun_fighter_71
+  - first:
+      213: -3094791470053402042
+    second: dog_gun_fighter_82
+  - first:
+      213: -6532279068979837944
+    second: dog_gun_fighter_83
+  - first:
+      213: -7026671768876060033
+    second: dog_gun_fighter_84
+  - first:
+      213: -3801097635102000641
+    second: dog_gun_fighter_85
+  - first:
+      213: -4953906103692780695
+    second: dog_gun_fighter_86
+  - first:
+      213: -7455896277252764153
+    second: dog_gun_fighter_87
+  - first:
+      213: 8031059817974298751
+    second: dog_gun_fighter_88
+  - first:
+      213: -5737789899221859259
+    second: dog_gun_fighter_89
+  - first:
+      213: 6464443117777482391
+    second: dog_gun_fighter_90
+  - first:
+      213: 830301743253605921
+    second: dog_gun_fighter_91
+  - first:
+      213: 6537203966815899516
+    second: dog_gun_fighter_115
+  - first:
+      213: 7537278671126084429
+    second: dog_gun_fighter_116
+  - first:
+      213: 7364319187538325937
+    second: dog_gun_fighter_127
+  - first:
+      213: 2940821471960970794
+    second: dog_gun_fighter_128
+  - first:
+      213: 7422006869961265669
+    second: dog_gun_fighter_129
+  - first:
+      213: 5481875713755445626
+    second: dog_gun_fighter_130
+  - first:
+      213: -5235682178002285390
+    second: dog_gun_fighter_137
+  - first:
+      213: -7486003037912504963
+    second: dog_gun_fighter_138
+  - first:
+      213: -7779091573118809081
+    second: dog_gun_fighter_139
+  - first:
+      213: 4862542689198053508
+    second: dog_gun_fighter_140
+  - first:
+      213: -8677310114724079063
+    second: dog_gun_fighter_141
+  - first:
+      213: 2583231125408262521
+    second: dog_gun_fighter_142
+  - first:
+      213: -4839729022712428117
+    second: dog_gun_fighter_143
+  - first:
+      213: -7718078194121250208
+    second: dog_gun_fighter_144
+  - first:
+      213: -5452852569907748577
+    second: dog_gun_fighter_145
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dog_gun_fighter_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 553
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571b7b97de77beb50800000000000000
+      internalID: 6623519538811482485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 553
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174b703f64a5dc7d0800000000000000
+      internalID: -2896559724557781903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 553
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de7a823e5ed8afc0800000000000000
+      internalID: -3483289815614849328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 553
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3518c9f6569d21b0800000000000000
+      internalID: -5679718254742334149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 488
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129f0d51b397a0050800000000000000
+      internalID: 5767555567477389601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 489
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2899a4a43f4770130800000000000000
+      internalID: 3532921020967721346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 489
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e861c9f8dfd4a20800000000000000
+      internalID: 3048371316040568324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 489
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8bb5a05459ffb50800000000000000
+      internalID: 6629181300271724716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_20
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 489
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4c884a9b3c5f3d0800000000000000
+      internalID: -3173415160315853577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 489
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e037c4d9e16fe70800000000000000
+      internalID: 9148533353991048781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_22
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 488
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15560e8189b0337b0800000000000000
+      internalID: -5245836393076202159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 489
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364abe25599a1b8f0800000000000000
+      internalID: -526453222619241373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 425
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fba36c714de4ed70800000000000000
+      internalID: 9071636414946585593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 425
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1151847ee09dcaac0800000000000000
+      internalID: -3842457724020845295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 425
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb7c6467545ca450800000000000000
+      internalID: 6101344329503898605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 424
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c8251f4b50cc4c0800000000000000
+      internalID: -4266028472325731317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_34
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 425
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c509da32efa8750c0800000000000000
+      internalID: -4587044871328657316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_35
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 425
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1006d4d2e6e692f0800000000000000
+      internalID: -966331208116600802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_36
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 424
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283c52ae43f988280800000000000000
+      internalID: -9040801202330811518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_37
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 425
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533b20d5b6dac8030800000000000000
+      internalID: 3498361687193596725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 360
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d376ad89f3c3808b0800000000000000
+      internalID: -5185828727072069827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_50
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 361
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0addf55a72bf270800000000000000
+      internalID: 8285259530709606643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_51
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 361
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c112db15d9ae970800000000000000
+      internalID: 8785006997530549390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_52
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 361
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bb30fa85c438d00800000000000000
+      internalID: 973705888219249478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_53
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 361
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bb5f37f78126d00800000000000000
+      internalID: 964360205896104745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_54
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 361
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc826ba5989503890800000000000000
+      internalID: -7480380534595114803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_55
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 361
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330d4b246d70a18e0800000000000000
+      internalID: -1722055290692251597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_56
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 361
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f046dc50594149920800000000000000
+      internalID: 2996042282388251663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 298
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae489b84ee20e450800000000000000
+      internalID: 6115939853098569379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_65
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 297
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5e8640f3cfb1210800000000000000
+      internalID: 1304913864641013225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_66
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 297
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa64a5f902d4af10800000000000000
+      internalID: 2280178251574045424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_67
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 297
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef50ae08887f30910800000000000000
+      internalID: 1802556441528763902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_68
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 297
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7b646be0d611c30800000000000000
+      internalID: 4328360626834814910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_69
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 297
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d6fd4f959f7ef60800000000000000
+      internalID: 8063687822585851278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_70
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 297
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacb33ac4835751e0800000000000000
+      internalID: -2209205262408762194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_71
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 297
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bc64f2dd2b627b0800000000000000
+      internalID: -5249311652603049215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_82
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 233
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ade8d0e871d05d0800000000000000
+      internalID: -3094791470053402042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_83
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 233
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804ccb7dbcea855a0800000000000000
+      internalID: -6532279068979837944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_84
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 233
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7270ee414f3c7e90800000000000000
+      internalID: -7026671768876060033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 233
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9fa2707d9cf3bc0800000000000000
+      internalID: -3801097635102000641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_86
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 234
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b90c645a0304bb0800000000000000
+      internalID: -4953906103692780695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_87
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 234
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e0130c6d5578890800000000000000
+      internalID: -7455896277252764153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_88
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 235
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f787544aa5e047f60800000000000000
+      internalID: 8031059817974298751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_89
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 233
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5448e0d9c764f50b0800000000000000
+      internalID: -5737789899221859259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_90
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 233
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79278d9f3c056b950800000000000000
+      internalID: 6464443117777482391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_91
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 233
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ec40f4903d58b00800000000000000
+      internalID: 830301743253605921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_115
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 170
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f065a4f50d8ba50800000000000000
+      internalID: 6537203966815899516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_116
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 170
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b3995640bc99860800000000000000
+      internalID: 7537278671126084429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_127
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 106
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1b0d18841533660800000000000000
+      internalID: 7364319187538325937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_128
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 108
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2633103c85efc820800000000000000
+      internalID: 2940821471960970794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_129
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 105
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502dc8cbce3400760800000000000000
+      internalID: 7422006869961265669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_130
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 107
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79fb3ddae8831c40800000000000000
+      internalID: 5481875713755445626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_137
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 40
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc84578cce1757b0800000000000000
+      internalID: -5235682178002285390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_138
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 41
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75eab946ef5c1890800000000000000
+      internalID: -7486003037912504963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_139
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 41
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cc40dfd6d1b0490800000000000000
+      internalID: -7779091573118809081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_140
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 41
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48892de10d83b7340800000000000000
+      internalID: 4862542689198053508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_141
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 41
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a97fdcc60049780800000000000000
+      internalID: -8677310114724079063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_142
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 42
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97921b2a50b79d320800000000000000
+      internalID: 2583231125408262521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_143
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 41
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9c3188814d5dcb0800000000000000
+      internalID: -4839729022712428117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_144
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 41
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ae6ba46c0e3e490800000000000000
+      internalID: -7718078194121250208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_gun_fighter_145
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 41
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11a2166a739354b0800000000000000
+      internalID: -5452852569907748577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
