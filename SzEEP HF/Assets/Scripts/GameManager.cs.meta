@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: f85e6c88a0297804fa00869c5b2ab7ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - catAmmo: {instanceID: 0}
+  - dogAmmo: {instanceID: 0}
+  - aimArrow: {instanceID: 0}
+  - playerOnePlace: {instanceID: 0}
+  - playerTwoPlace: {instanceID: 0}
+  - catPrefab: {instanceID: 0}
+  - dogPrefab: {instanceID: 0}
+  - forceBarOne: {instanceID: 0}
+  - forceBarTwo: {instanceID: 0}
+  - LeftImage: {instanceID: 0}
+  - RightImage: {instanceID: 0}
+  - LeftHealth: {instanceID: 0}
+  - RightHealth: {instanceID: 0}
+  - CatImage: {instanceID: 0}
+  - DogImage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2181964042751388473
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2181964042751388475}
+  - component: {fileID: 2181964042751388472}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2181964042751388475
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2181964042751388473}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.72, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2181964042751388472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2181964042751388473}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f85e6c88a0297804fa00869c5b2ab7ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  catAmmo: {fileID: 3681250181484950817, guid: 19df40b00f8dd8d4ea1e93f70ff0d048, type: 3}
+  dogAmmo: {fileID: 6294748541538824370, guid: 0136f15905afd0c40b1f20097b4dbb37, type: 3}
+  aimArrow: {fileID: 0}
+  playerOnePlace: {fileID: 0}
+  playerTwoPlace: {fileID: 0}
+  catPrefab: {fileID: 8336267476762250131, guid: fd766a60e3ba4ba4abb880ecbb189374, type: 3}
+  dogPrefab: {fileID: 5501701597225454765, guid: 9281f8e3605d4c24cbcc8cc3a757017d, type: 3}
+  playerVsPlayer: 1
+  playerIsCat: 1
+  r: 2
+  forceBarOne: {fileID: 0}
+  forceBarTwo: {fileID: 0}
+  minForce: 10
+  maxForce: 15
+  leftImage: {fileID: 0}
+  rightImage: {fileID: 0}
+  leftHealth: {fileID: 0}
+  rightHealth: {fileID: 0}
+  catImage: {fileID: 7493647097803802432, guid: 2dc0be8394d77b946b84e31edde8440e, type: 3}
+  dogImage: {fileID: -5679718254742334149, guid: e60ae94d2addb6741b9b81152c82c984, type: 3}
+  maxHeath: 100
+  windPowerSlider: {fileID: 0}
+  windDirection: {fileID: 0}
