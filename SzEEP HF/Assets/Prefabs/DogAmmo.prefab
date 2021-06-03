@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 8788041869390019665}
   - component: {fileID: 6294748541538824370}
   m_Layer: 0
-  m_Name: dogAmmo
+  m_Name: DogAmmo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -134,3 +134,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abbed124480c2af4c862fa9e2d09cac9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damage: 100

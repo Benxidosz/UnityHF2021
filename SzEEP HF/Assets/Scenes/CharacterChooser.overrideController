@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CharacterChooser
+  m_Controller: {fileID: 9100000, guid: b4b5541d4430a0847b992219cb82d8a2, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3087c9e4566252247887c66a90158181, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e82b95b51cc6017428e3a73e86ba6e07, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fefdea70db03a7d4ea4b67e9dbe3ab35, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 814f90a7927604d429f34e168eb7101e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4f9a629449753264a91aa6c0ed7addc5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e2950fa182aaef2488c2874556a93510, type: 2}

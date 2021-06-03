@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: StartingFlag
   m_EditorClassIdentifier: 
   playerVsPlayer: 1
-  playerIsCat: 1
+  playerIsCat: 0

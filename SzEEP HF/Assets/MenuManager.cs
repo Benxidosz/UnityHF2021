@@ -12,11 +12,14 @@ public class MenuManager : MonoBehaviour
     public StartingFlagsSO startingFlags;
     public GameObject mainMenu;
     public GameObject characterChooser;
+    
+    private Animator _mainMenuAnim;
+    private Animator _chooserAnim;
 
     private void Awake() {
         _intance = this;
-        mainMenu.SetActive(true);
-        characterChooser.SetActive(false);
+        _mainMenuAnim = mainMenu.GetComponent<Animator>();
+        _chooserAnim = characterChooser.GetComponent<Animator>();
     }
 
     public void StartGamePlayerVsPlayer() {
@@ -25,9 +28,8 @@ public class MenuManager : MonoBehaviour
     }
 
     public void PlayerVsBot() {
-        mainMenu.SetActive(false);
-        characterChooser.SetActive(true);
         startingFlags.playerVsPlayer = false;
+        StartCoroutine(Switch());
     }
 
     public void ChooseCat() {
@@ -38,5 +40,15 @@ public class MenuManager : MonoBehaviour
     public void ChooseDog() {
         startingFlags.playerIsCat = false;
         SceneManager.LoadScene(1);
+    }
+
+    public void Quit() {
+        Application.Quit();
+    }
+    
+    IEnumerator Switch() {
+        _mainMenuAnim.SetTrigger("Switch");
+        _chooserAnim.SetTrigger("Switch");
+        yield return new WaitForSeconds(1);
     }
 }

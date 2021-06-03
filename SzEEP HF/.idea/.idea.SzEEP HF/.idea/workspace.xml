@@ -20,6 +20,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.2d.tilemap/Editor/GridPaintPaletteWindow.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MenuManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -30,18 +31,19 @@
       <option value="$PROJECT_DIR$/Assets/ForceSlider.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/AIController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/HealtSlider.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GameState.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/SliderController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/AmmoScript.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Ammos/AmmoScript.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Ammos/BigAmmoScript.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Ammos/StunAmmoScript.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Ammos/LifeStealAmmoScript.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/PlayerControllers/PlayerController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/StartingFlagsSO.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Ammos/StunAmmoScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Ammos/AmmoScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/TextController.cs" />
       <option value="$PROJECT_DIR$/Assets/MenuManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sMqE0AKrJHUqnxrS17Ji8fkXif" />
@@ -65,6 +67,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../CatVsDog\SzEEP HF.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\BME\SzEEP\CatVsDog" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -99,7 +109,10 @@
       <workItem from="1621087608687" duration="16169000" />
       <workItem from="1621132750015" duration="2150000" />
       <workItem from="1621184227493" duration="6577000" />
-      <workItem from="1621214348967" duration="7454000" />
+      <workItem from="1621214348967" duration="7541000" />
+      <workItem from="1621253121413" duration="4219000" />
+      <workItem from="1621283788355" duration="2829000" />
+      <workItem from="1621287942660" duration="203000" />
     </task>
     <servers />
   </component>
@@ -110,6 +123,13 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="UNITY_DEBUG_RUN_CONFIGURATION">
+        <watch expression="this.gameObject" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

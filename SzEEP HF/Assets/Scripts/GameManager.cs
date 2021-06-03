@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using Random = UnityEngine.Random;
 
@@ -92,7 +93,20 @@ namespace Manager {
         public StunAmmoScript stunAmmo;
 
         public Vector2 Wind => (_windLeft ? Vector2.left : Vector2.right) * _windPower;
-
+        
+        //End
+        [Header("End")] 
+        public GameObject endMessage;
+        private TextController _textController;
+        private Animator _endAnimator;
+        
+        //InGameMenu
+        [Header("In Game Menu")]
+        public GameObject inGameMenu;
+        private GameState _lastState;
+        private bool _inGameMenuShowed = false;
+        private Animator _menuAnim;
+        
         private void SpawnAndSetCharacters() {
             GameObject cat = Instantiate(catPrefab);
             GameObject dog = Instantiate(dogPrefab);
@@ -133,6 +147,8 @@ namespace Manager {
 
             _oneAnim = _playerVsPlayer || _playerIsCat ? cat.GetComponent<Animator>() : dog.GetComponent<Animator>();
             _twoAnim = _playerVsPlayer || _playerIsCat ? dog.GetComponent<Animator>() : cat.GetComponent<Animator>();
+
+            _menuAnim = inGameMenu.GetComponent<Animator>();
         }
 
         private void Awake() {
@@ -140,6 +156,8 @@ namespace Manager {
             _playerVsPlayer = startingFlags.playerVsPlayer;
             leftPanel.SetActive(true);
             rightPanel.SetActive(false);
+            _textController = endMessage.GetComponentInChildren<TextController>();
+            _endAnimator = endMessage.GetComponent<Animator>();
             
             _controllers = new List<PlayerController>(2);
             _intance = this;
@@ -258,6 +276,25 @@ namespace Manager {
                     _clickSensitive = false;
                     nextState = GameState.ShootTwo;
                     break;
+                case GameState.End:
+                    if (_playerVsPlayer) {
+                        if (_controllers[0].Health == 0)
+                            StartCoroutine(End("Player 2 Won!"));
+                        else
+                            StartCoroutine(End("Player 1 Won!"));
+                    } else {
+                        if (_controllers[0].Health == 0)
+                            StartCoroutine(End("Player Lost!"));
+                        else
+                            StartCoroutine(End("Player Won!"));
+                    }
+                    break;
+                case GameState.Paused:
+                    nextState = _lastState;
+                    _menuAnim.Play("GoOut");
+                    _inGameMenuShowed = false;
+                    break;
+                default: break;
             }
 
             _state = nextState;
@@ -266,6 +303,13 @@ namespace Manager {
         private void Update() {
             if (Input.GetMouseButtonDown(0) && _clickSensitive) {
                 DoAction();
+            }
+
+            if (Input.GetKeyDown(KeyCode.Escape)) {
+                if (_inGameMenuShowed)
+                    Resume();
+                else if (_state == GameState.IdleOne || _state == GameState.IdleTwo)
+                    ShowInGameMenu();
             }
         }
 
@@ -306,6 +350,7 @@ namespace Manager {
             if (_controllers[1].Health == 0) {
                 _twoAnim.Play("Death");
                 _state = GameState.End;
+                DoAction();
             }
         }
 
@@ -351,6 +396,28 @@ namespace Manager {
                 _state = GameState.ShootTwo;
             else if (_state == GameState.ShootTwo)
                 _state = GameState.ShootOne;
+            DoAction();
+        }
+
+        IEnumerator End(String message) {
+            _textController.Text = message;
+            _endAnimator.SetTrigger("End");
+            yield return new WaitForSeconds(1);
+        }
+
+        public void ToMainMenu() {
+            SceneManager.LoadScene(0);
+        }
+
+        public void ShowInGameMenu() {
+            _lastState = _state;
+            _state = GameState.Paused;
+            _clickSensitive = false;
+            _inGameMenuShowed = true;
+            _menuAnim.Play("GoInMenu");
+        }
+
+        public void Resume() {
             DoAction();
         }
      }   
